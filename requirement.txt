@@ -25,3 +25,4 @@ diffusers
 gradio
 openai==0.27.0
 accelerate
+jedi
